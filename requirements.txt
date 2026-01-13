@@ -6,4 +6,9 @@ scipy
 nltk
 textstat
 google-genai
-gradio
+gradio==6.2.0
+newspaper3k
+lxml
+requests
+beautifulsoup4
+lxml_html_clean
